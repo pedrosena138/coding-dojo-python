@@ -1,4 +1,4 @@
-# Coding Dojo -Pokedex
+# Coding Dojo - Pokedex
 
 Create a Pokedex applying TDD
 
