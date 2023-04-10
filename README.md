@@ -4,7 +4,7 @@ Repository with applications of Coding Dojo with Python
 
 ## What's Coding Dojo?
 
-A Coding Dojo is a meeting where people with different skill levels get together in a non-competitive environment to solve a problem.
+A Coding Dojo is a meeting where people with different skill levels get together in a non-competitive environment to solve a problem. For more informations click [here](https://codingdojo.org/)
 
 ## Requirements
 
