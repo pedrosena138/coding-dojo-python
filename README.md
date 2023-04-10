@@ -1,2 +1,3 @@
-# coding-dojo-python
-Coding Dojo with Python
+# Coding Dojo - Pokedex
+
+Coding Dojo applying TDD with Python bulding a Pokedex
