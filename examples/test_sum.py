@@ -13,6 +13,7 @@ class TestSum(unittest.TestCase):
     def test_sum_int(self):
         """Should return a sum of two integers"""
         result = sum_numbers(3, 4)
+
         self.assertEqual(result, 7)
 
     def test_sum_float(self):
