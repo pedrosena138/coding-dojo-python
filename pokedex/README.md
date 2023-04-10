@@ -17,6 +17,8 @@ To become a Pokemon master we have to know everysingle pokemon, for this we are 
 | weight    | float. weight of the pokemon          |
 | abilities | list. list of abilites of the pokemon |
 
+Hint: We can use [PokéAPI](https://pokeapi.co/) to check if the informations are correct
+
 ## Test
 
 For execute tests cases we are using [unittest](https://docs.python.org/3/library/unittest.html) library
