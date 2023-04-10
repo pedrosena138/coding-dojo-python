@@ -8,7 +8,7 @@ Test Driven Development (TDD) is related with test-firs programming concepts of 
 
 ## Pokedex
 
-To become a Pokemon master we have to know everysingle pokemon, for this we are gonna create a Pokedex to save the Pokemons's info. We have to save and update these infos as we discovery new Pokemons, each Pokemon have these attributes
+To become a Pokemon master we have to know everysingle pokemon, for this we are gonna create a Pokedex to save the Pokemons's info. We have to **search**, **save** and **update** these infos as we discovery new Pokemons, each Pokemon have these attributes
 
 | attribute | description                           |
 |-----------|---------------------------------------|
