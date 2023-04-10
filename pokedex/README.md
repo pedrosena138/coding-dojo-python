@@ -6,6 +6,12 @@ Create a pokedex applying TDD
 
 Test Driven Development (TDD) is related with test-firs programming concepts of Extreme Programming (XP), begun in 1999. In 2003 Kent Beck "rediscovered" the method and created more public interest. The technique state that the test should be created before the code. This is as opposed to software being developed first and test cases created later.
 
+## Case
+
+## Test
+
+For execute tests cases we are using [unittest](https://docs.python.org/3/library/unittest.html) library
+
 ## How to run?
 
-```pipenv run test {filename}```
+```python -m unittest -v test```

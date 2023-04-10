@@ -5,13 +5,8 @@ verify_ssl = true
 
 [dev-packages]
 autopep8==2.0.2
-pycodestyle==2.10.0
-tomli==2.0.1
 
 [packages]
-
-[scripts]
-test = "python -m unittest -v"
 
 [requires]
 python_version = "3.9"
