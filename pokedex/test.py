@@ -26,7 +26,7 @@ class TestPokedex(unittest.TestCase):
     def setUp(self):
         self.pokedex = Pokedex()
 
-    def test_intancia_pokedex(self):
+    def test_instancia_pokedex(self):
         """Deve verificar se a pokedex é uma classe Pokedex"""
         self.assertIsInstance(self.pokedex, Pokedex)
 
